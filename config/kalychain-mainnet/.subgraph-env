@@ -1,0 +1,6 @@
+V3_SUBGRAPH_NAME="v3-subgraph-kalychain-mainnet"
+V3_TOKEN_SUBGRAPH_NAME="v3-subgraph-token-kalychain-mainnet"
+ALCHEMY_DEPLOY_URL="http://127.0.0.1:8020"
+ALCHEMY_IPFS_URL="http://127.0.0.1:5001"
+# No key needed for local
+ALCHEMY_DEPLOY_KEY=""
